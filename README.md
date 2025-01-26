@@ -1,6 +1,6 @@
 # studify_project
 
-A new Flutter project.
+Flutter project for a subject MIS. (213030, 213137)
 
 ## Getting Started
 
